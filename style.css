@@ -1,0 +1,46 @@
+body{
+background-color: blueviolet;
+background-image: url(WIN_20211010_10_55_34_Pro.jpg);
+
+}
+ nav{
+   padding: 10px 20px 10px 30px;
+    /* margin-inline: 2px; */
+    size: 5px;
+    background-color: aqua;
+    border: 2px solid Red;
+margin-left: 10px;
+
+}
+a{
+    margin-inline: 40px;
+    
+}
+p{
+    margin-right: 25%;
+position: absolute;
+top: 80;
+    left: 5%;
+    width: 65%;
+    height:auto;
+    padding: 20px;
+}
+img {
+    padding-top: 20px;
+    width: 130px;
+    height: 150px;
+    display: flex;
+    padding-left: 80%;
+    padding-top: -30px;
+}
+
+
+h1{
+    padding: 0%;
+    margin: 0%;
+    margin-left: 0%;
+    display: flex;
+    tab-size: 1rem;
+    size: 2rem;
+    animation-name: inherit;
+}
